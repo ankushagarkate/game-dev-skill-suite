@@ -1,0 +1,12 @@
+{
+  "name": "gamedev-suite",
+  "displayName": "Game Dev Suite",
+  "description": "The ultimate game development skill suite for Antigravity: game design theory, UX & psychology, level design, 3D math, shader programming, ray tracing, audio architecture, engine internals, Unity 6 performance, Panda3D, game AI, and QA testing — grounded in foundational game dev literature.",
+  "version": "1.0.0",
+  "author": "Antigravity Game Dev Suite",
+  "suggestedPrompts": [
+    "Design the core loop, meta loop, and progression mechanics for my game",
+    "Audit my level layout and pacing curve for encounter design",
+    "Profile and optimize my Unity 6 project for mobile and VR"
+  ]
+}
